@@ -3,6 +3,8 @@
 ### Introduction
 The project aims to detect vehicles such as cars, trucks and bicycle in given images and track them in videos. The goal is achieved using YOLOv3 object detection model and PyTorch framework. The project contains a python file containing the YOLO model for detecting vehicles and a jupyter notebook which uses the model to display the output.
 
+**Note:** The project is complete, but I use it for trying new techniques hence is in active development so it might not give best results. Tried to make sure the code is working and removed/commented extra lines of code as much as possible.
+
 ### Steps for running the project locally
 1. Clone the repo via [URL](https://github.com/The-Lady/Vehicle-Surveillance-System.git)
 2. Set up virtual environment:
